@@ -1,0 +1,30 @@
+{
+  "name": "mytemplate",
+  "version": "1.0.0",
+  "description": "standart web-development npm template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"this is test\""
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Greenmort",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "smart-grid": "^2.0.0"
+  }
+}

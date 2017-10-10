@@ -1,0 +1,9 @@
+.class_header {
+  background-color: firebrick;
+  color: white;
+
+  &:hover {
+    background-color: tomato;
+    border: 2px solid black;
+  }
+}

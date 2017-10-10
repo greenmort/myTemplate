@@ -1,0 +1,9 @@
+.class_footer {
+  background-color: blue;
+  color: orangered;
+
+  &:hover {
+    background-color: deepskyblue;
+    border: 2px solid black;
+  }
+}
